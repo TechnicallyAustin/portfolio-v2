@@ -12,7 +12,7 @@ function App() {
 
       <main className='w-full h-full '>
         <section className='w-full h-full relat'>
-          Main
+          Main section
         </section>
         <section>Nav</section>
       </main>
